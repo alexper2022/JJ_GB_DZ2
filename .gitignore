@@ -33,3 +33,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+Task1/.idea/
+Task1/.gitignor
+Task2.idea/
+Task2//.gitignor
