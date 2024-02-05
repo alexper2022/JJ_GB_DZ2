@@ -36,6 +36,6 @@ build/
 
 
 Task1/.idea/
-Task1/.gitignor
-Task2.idea/
-Task2//.gitignor
+Task1/.gitignore
+Task2/.idea/
+Task2/.gitignore
